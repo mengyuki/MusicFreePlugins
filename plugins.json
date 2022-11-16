@@ -1,0 +1,40 @@
+{
+  "plugins": [
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/bilibili.js"
+    },
+    {
+      "name": "咪咕",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/migu.js"
+    },
+    {
+      "name": "网易云",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/netease.js"
+    },
+    {
+      "name": "全民K歌",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/qmkg.js"
+    },
+    {
+      "name": "酷我",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/kuwo.js"
+    },
+    {
+      "name": "千千音乐",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/qianqian.js"
+    },
+    {
+      "name": "5sing",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/5sing.js"
+    },
+    {
+      "name": "酷狗",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/kugou.js"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://raw.githubusercontent.com/mengyuki/MusicFreePlugins/master/qq.js"
+    }
+  ]
+}
