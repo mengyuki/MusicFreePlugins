@@ -4,3 +4,6 @@
 
 ---
 本仓库的插件来自于网络公开的接口，并过滤掉所有VIP/收费/试听歌曲。仅供学习参考使用，请不要用于任何商业用途。
+
+
+代码fork自https://gitee.com/maotoumao/MusicFreePlugins
